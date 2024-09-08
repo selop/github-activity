@@ -56,9 +56,14 @@ To install GitHub Activity Viewer, make sure you have Go installed on your syste
    cd github-activity
    ```
 
-3. Build the project:
+3. Execute tests:
    ```
-   go build
+   make test
+   ```
+
+4. Build the project:
+   ```
+   make build
    ```
 
 ## Contributing
