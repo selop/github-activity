@@ -73,3 +73,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - Thanks to GitHub for providing access to user activity data.
 - This project was partly composed with Cursor AI and claude-3.5-sonnet.
+- This project was inspired by roadmap.sh (https://roadmap.sh/projects/github-user-activity)
